@@ -1,3 +1,0 @@
-name liqing
-age 33
-sex nv
